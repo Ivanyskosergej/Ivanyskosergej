@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ivanyskosergej
+- 👀 I’m interested in network security/data engineer 
+- 🌱 I’m currently learning python/C++
+- 📫 How to reach me ivanyskosergej@gmail.com
